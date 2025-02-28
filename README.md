@@ -1,40 +1,58 @@
-🏦 Optimisateur de Retraite – Simulation & Conseil
+# 🏦 Optimisateur de Retraite – Simulation & Conseil  
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Evhan-pro/Elysion.git)
+![GitHub issues](https://img.shields.io/github/issues/Evhan-pro/Elysion.git)
+![GitHub last commit](https://img.shields.io/github/last-commit/Evhan-pro/Elysion.git)
+![GitHub license](https://img.shields.io/github/license/Evhan-pro/Elysion.git)
 
+## 📖 Description  
+Ce projet est une **application web** permettant aux utilisateurs de **simuler leurs revenus de retraite** et de recevoir des recommandations personnalisées pour **optimiser leur épargne et leurs investissements**.
 
+## 🚀 Fonctionnalités  
+✅ **📊 Simulation de retraite** – Estimation des revenus en fonction de l'âge de départ et des cotisations.  
+✅ **📅 Calcul de la date de départ** – Prédiction du meilleur moment pour partir à la retraite.  
+✅ **📄 Gestion et sécurisation des bulletins de salaire** :  
+   - Enregistrement et analyse des fiches de paie pour un suivi détaillé.  
+   - **🔐 Sécurisation avancée** : Données protégées et stockées sur des serveurs répartis sur plusieurs continents pour garantir leur confidentialité et leur accessibilité.  
+✅ **📈 Conseil en investissement** – Suggestions adaptées (PEA, actions, assurance-vie, etc.) pour atteindre un objectif de revenu.  
 
-Ce projet est une application web permettant aux utilisateurs de simuler leurs revenus de retraite et de recevoir des recommandations personnalisées pour optimiser leur épargne et leurs investissements.
+---
 
-🚀 Fonctionnalités
-📊 Simulation de retraite : Estimation des revenus en fonction de l'âge de départ et des cotisations.
-📅 Calcul de la date de départ : Prédiction du meilleur moment pour partir à la retraite.
-📄 Gestion et sécurisation des bulletins de salaire :
-Enregistrement et analyse des fiches de paie pour un suivi détaillé.
-🔐 Sécurisation avancée : Données protégées et stockées sur des serveurs répartis sur plusieurs continents pour assurer leur disponibilité et leur confidentialité.
-📈 Conseil en investissement : Suggestions adaptées (PEA, actions, assurance-vie, etc.) pour atteindre un objectif de revenu.
-🛠️ Technologies utilisées
-Backend : Node.js avec une base de données MySQL (PHPMyAdmin).
-Frontend : React.js pour une interface dynamique et intuitive.
-Sécurité & Infrastructure : Hébergement sur des serveurs distribués mondialement pour garantir la protection et l’accessibilité des données sensibles.
-Design & UX : Un accent particulier est mis sur une direction artistique soignée et une expérience utilisateur fluide.
-📌 Objectif
-Ce projet vise à offrir une solution complète aux travailleurs souhaitant anticiper et optimiser leur retraite en fonction de leur situation financière et professionnelle, tout en garantissant une sécurité maximale des données.
+## 🛠️ Technologies utilisées  
+| Technologie | Description |
+|------------|------------|
+| **Backend** | Node.js + MySQL (PHPMyAdmin) |
+| **Frontend** | React.js |
+| **Sécurité & Infra** | Serveurs distribués mondialement pour protéger et sécuriser les données |
+| **Design & UX** | Expérience utilisateur fluide avec une direction artistique soignée |
 
-📍 Statut du projet : En cours de développement 🚧
-💡 Contributions : Ouvertes aux suggestions et améliorations !
+---
 
-📜 Installation & Utilisation
+## 📌 Objectif  
+Ce projet vise à offrir une **solution complète** aux travailleurs souhaitant **anticiper et optimiser leur retraite** en fonction de leur situation financière et professionnelle, tout en garantissant **une sécurité maximale des données**.
+
+📍 **Statut du projet** : 🏗️ *En cours de développement*  
+💡 **Contributions** : ✨ *Ouvertes aux suggestions et améliorations !*  
+
+---
+
+## 🔧 Installation & Utilisation  
+
+### 📥 1. Cloner le repository  
+```bash
+git clone https://github.com/Evhan-pro/Elysion.git
+cd ton-repo
+📦 2. Installer les dépendances
 bash
 Copier
 Modifier
-# Clone du repository
-git clone https://github.com/ton-utilisateur/ton-repo.git
-
-# Installation des dépendances
-cd ton-repo
 npm install
-
-# Lancement du projet
+▶️ 3. Lancer le projet
+bash
+Copier
+Modifier
 npm start
-📄 Licence
+📜 Licence
 Ce projet est sous licence MIT.
+
+📬 Contact & Support : Ouvrez une issue pour toute question ou suggestion !
