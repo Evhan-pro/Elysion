@@ -1,9 +1,9 @@
 # 🏦 Optimisateur de Retraite – Simulation & Conseil  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Evhan-pro/Elysion.git)
-![GitHub issues](https://img.shields.io/github/issues/Evhan-pro/Elysion.git)
-![GitHub last commit](https://img.shields.io/github/last-commit/Evhan-pro/Elysion.git)
-![GitHub license](https://img.shields.io/github/license/Evhan-pro/Elysion.git)
+![GitHub repo size](https://img.shields.io/github/repo-size/Evhan-pro/Elysion)
+![GitHub issues](https://img.shields.io/github/issues/Evhan-pro/Elysion)
+![GitHub last commit](https://img.shields.io/github/last-commit/Evhan-pro/Elysion)
+![GitHub license](https://img.shields.io/github/license/Evhan-pro/Elysion)
 
 ## 📖 Description  
 Ce projet est une **application web** permettant aux utilisateurs de **simuler leurs revenus de retraite** et de recevoir des recommandations personnalisées pour **optimiser leur épargne et leurs investissements**.
